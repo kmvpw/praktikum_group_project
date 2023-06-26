@@ -1,1 +1,2 @@
-pass
+def add_user():
+    pass
